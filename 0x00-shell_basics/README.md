@@ -1,1 +1,1 @@
-create a script that delete all files starting with ~
+create a script that create directories

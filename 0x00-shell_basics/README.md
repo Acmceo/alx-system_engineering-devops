@@ -1,1 +1,1 @@
-create a magic file school.mgc
+create a symbolic link

@@ -1,1 +1,1 @@
-write a file that list all directories separated with commas
+create a magic file school.mgc

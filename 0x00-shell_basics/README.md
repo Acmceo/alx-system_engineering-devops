@@ -1,1 +1,1 @@
- write a script that list all files
+write a script to print a file named iamafile

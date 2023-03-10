@@ -1,1 +1,1 @@
-create a script that create directories
+write a file that list all directories separated with commas

@@ -1,1 +1,1 @@
-delete  my_first_directory
+ write a script that changes a working directory

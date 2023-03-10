@@ -1,1 +1,1 @@
-write a script to print a file named iamafile
+create a symbolic link
